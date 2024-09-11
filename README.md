@@ -17,9 +17,13 @@
 <br>
 
 
-![alt text](<Screenshot 2024-09-11 141821-1.png>)
+  ## `SCREENSHOOT :-`
+  <br>
+  ![Screenshot 2024-09-11 141821](https://github.com/user-attachments/assets/c1bc2948-7152-4bdf-a0ae-e13b20518d14)
 
-"C:\Users\amitk\RandomPrograms\Pictures\Screenshots\Screenshot 2024-09-11 141757.png"
+
+![Screenshot 2024-09-11 141757](https://github.com/user-attachments/assets/2e41638b-1744-42c8-b309-b12f262d3d75)
+
 
 
 
